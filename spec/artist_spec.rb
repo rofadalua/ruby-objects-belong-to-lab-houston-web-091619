@@ -8,5 +8,5 @@ describe "Artist" do
   end
 end
 
-attr_accessor Artist 
+attr_accessor:Artist 
    
