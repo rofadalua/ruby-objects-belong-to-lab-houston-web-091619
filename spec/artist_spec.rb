@@ -7,3 +7,6 @@ describe "Artist" do
     expect(artist.name).to eq("Beyonce")
   end
 end
+
+attr_accessor:Artist 
+   

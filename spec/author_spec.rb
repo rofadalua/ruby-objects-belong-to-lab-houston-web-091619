@@ -7,3 +7,5 @@ describe "Author" do
     expect(author.name).to eq("Uncle Bob")
   end
 end
+class author
+  attr_accessor :author :name  
